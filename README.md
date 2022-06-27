@@ -1,4 +1,4 @@
-# Linear_Regression
+# Linear_Regression_model
 
 **Dataset used :**
 
