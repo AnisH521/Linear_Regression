@@ -12,7 +12,7 @@ then they can go home and order either on a mobile app or website for the clothe
 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
 
-<h3 align="left">python verion</h3>
+<h3 align="left">python version</h3>
 
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pandas?style=flat-square">
 
