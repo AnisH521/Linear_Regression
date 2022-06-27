@@ -16,11 +16,14 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pandas?style=flat-square">
 
-<h3 align="left">A Data Enthusiast and a learner</h3>
+<h3 align="left">libraries used</h3>
 
 pandas
+
 seaborn
+
 scikit learn
+
 matplotlib
 
 <h3 align="left">Description</h3>
